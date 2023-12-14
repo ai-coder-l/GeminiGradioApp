@@ -49,10 +49,12 @@ Clone the repository and install the required packages:
     pip install -r requirements.txt
     ```
 
-### Running the Application
-Execute the following command to start the application:
+5. Running the Application:
 
-```bash
-    pip install -r requirements.txt
-```
+    ```bash
+    python app.py
+    ```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
