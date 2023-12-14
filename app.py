@@ -7,11 +7,11 @@ from PIL import Image
 
 print("google-generativeai:", genai.__version__)
 
-TITLE = """<h1 align="center">Gemini App💬</h1>"""
-SUBTITLE = """<h2 align="center">Run with Gemini Pro and Gemini Pro Vision API</h2>"""
+TITLE = """<h1 align="center">Gemini App</h1>"""
+SUBTITLE = """<h2 align="center">Run with Gemini Pro Vision API</h2>"""
 DUPLICATE = """
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-    <a href="https://huggingface.co/spaces/SkalskiP/ChatGemini?duplicate=true">
+    <a href="https://huggingface.co/spaces/meryem-sakin/GeminiApp?duplicate=true">
         <img src="https://bit.ly/3gLdBN6" alt="Duplicate Space" style="margin-right: 10px;">
     </a>
     <span>Duplicate the Space and run securely with your 
@@ -21,7 +21,7 @@ DUPLICATE = """
 """
 AVATAR_IMAGES = (
     None,
-    "https://media.roboflow.com/spaces/gemini-icon.png"
+    "https://huggingface.co/spaces/meryem-sakin/GeminiApp/blob/main/gemini.jpg"
 )
 
 
