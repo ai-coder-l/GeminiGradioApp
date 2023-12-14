@@ -1,8 +1,5 @@
 # GeminiGradioApp
 
-<img src="[https://github.com/meryemsakin/GeminiGradioApp/blob/main/image.jpg]" width="100" height="100">
-
-
 ## Introduction
 Welcome to GeminiGradioAApp! This interactive application is designed to showcase the capabilities of Google's Gemini Pro and Gemini Pro Vision APIs. Dive into the world of AI with user-friendly interfaces for natural language processing, image recognition, and multimodal AI interactions.
 
