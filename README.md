@@ -1,5 +1,8 @@
 # GeminiGradioApp
 
+<img src="https://github.com/kullanici/depo/resim.jpg" width="500" height="300">
+
+
 ## Introduction
 Welcome to GeminiGradioAApp! This interactive application is designed to showcase the capabilities of Google's Gemini Pro and Gemini Pro Vision APIs. Dive into the world of AI with user-friendly interfaces for natural language processing, image recognition, and multimodal AI interactions.
 
@@ -8,7 +11,8 @@ Welcome to GeminiGradioAApp! This interactive application is designed to showcas
 - **Image Processing Capabilities**: Explore image recognition features with Gemini Pro Vision.
 - **Customizable Interaction**: Adjust settings like temperature and token limits to tailor your AI interactions.
 
-## Getting Started
+Accessing the Gradio Web Interface
+You can access the Gradio web interface for the GeminiGradioApp through the following link: [Gradio Web Interface for GeminiGradioApp](https://huggingface.co/spaces/meryem-sakin/GeminiApp)
 
 ### Prerequisites
 - Python 3.10
