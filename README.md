@@ -11,8 +11,8 @@ Welcome to GeminiGradioAApp! This interactive application is designed to showcas
 - **Image Processing Capabilities**: Explore image recognition features with Gemini Pro Vision.
 - **Customizable Interaction**: Adjust settings like temperature and token limits to tailor your AI interactions.
 
-Accessing the Gradio Web Interface
-You can access the Gradio web interface for the GeminiGradioApp through the following link: [Gradio Web Interface for GeminiGradioApp](https://huggingface.co/spaces/meryem-sakin/GeminiApp)
+## Accessing the Gradio Web Interface
+[Gradio Web Interface for GeminiGradioApp](https://huggingface.co/spaces/meryem-sakin/GeminiApp)
 
 ### Prerequisites
 - Python 3.10
