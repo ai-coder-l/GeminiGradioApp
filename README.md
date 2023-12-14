@@ -9,7 +9,7 @@ GeminiGradioApp is an interactive application that utilizes Google's Gemini Pro 
 - **Customizable Interaction**: Adjust settings like temperature and token limits to tailor your AI interactions.
 
 ## Accessing the Gradio Web Interface
-[Gradio Web Interface for GeminiGradioApp](https://huggingface.co/spaces/meryem-sakin/GeminiApp)
+[Gradio Web Interface](https://huggingface.co/spaces/meryem-sakin/GeminiApp)
 
 ### Prerequisites
 - Python 3.10
