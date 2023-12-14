@@ -1,6 +1,6 @@
 # GeminiGradioApp
 
-<img src="https://github.com/kullanici/depo/resim.jpg" width="500" height="300">
+<img src="[https://github.com/meryemsakin/GeminiGradioApp/blob/main/image.jpg]" width="100" height="100">
 
 
 ## Introduction
