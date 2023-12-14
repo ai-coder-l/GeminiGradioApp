@@ -48,7 +48,7 @@ Clone the repository and install the required packages:
 ### Running the Application
 Execute the following command to start the application:
 
-    ```bash
-    python app.py
-    ```
-python app.py
+```bash
+    pip install -r requirements.txt
+```
+
