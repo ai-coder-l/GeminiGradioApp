@@ -1,7 +1,7 @@
 # GeminiGradioApp
 
 ## Introduction
-Welcome to GeminiGradioAApp! This interactive application is designed to showcase the capabilities of Google's Gemini Pro and Gemini Pro Vision APIs. Dive into the world of AI with user-friendly interfaces for natural language processing, image recognition, and multimodal AI interactions.
+GeminiGradioApp is an interactive application that utilizes Google's Gemini Pro and Gemini Pro Vision APIs. This application presents the fundamental features of AI in areas such as natural language processing and image recognition through a user-friendly interface. Additionally, it allows users to experience multimodal AI interactions.
 
 ## Features
 - **Interactive AI Chat**: Experience real-time conversations powered by Gemini's advanced AI technology.
