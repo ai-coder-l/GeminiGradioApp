@@ -7,7 +7,7 @@ from PIL import Image
 
 print("google-generativeai:", genai.__version__)
 
-TITLE = """<h1 align="center">Gemini App</h1>"""
+TITLE = """<h1 align="center">Gemini Gradio App</h1>"""
 SUBTITLE = """<h2 align="center">Run with Gemini Pro Vision API</h2>"""
 DUPLICATE = """
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
